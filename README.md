@@ -9,7 +9,7 @@ i have just started coding
 *   🌍  I'm based in India
 *   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on interesting projects
-<a href="https://www.twitter.com/karann_25" target="_blank" rel="noreferrer"><img
+<a href="[https://www.twitter.com/karann_25](https://twitter.com/karann__25)" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/karan_agrawal25?logo=twitter&style=for-the-badge&color=ef4444&labelColor=0f172a"
                 /></a><a href="https://www.github.com/KDrop25" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/KDrop25?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a><a href="https://www.twitch.tv/KDrop_Gaming" target="_blank" rel="noreferrer"><img

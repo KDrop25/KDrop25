@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/karan-agrawal25/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/karann__25)
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.instagram.com/official.kxran)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://karan.inditech.in)
 
 Welcome to my GitHub profile! I'm a passionate developer from Indore, India, with expertise in JavaScript and Python. I love building web applications and working with modern technologies.
 

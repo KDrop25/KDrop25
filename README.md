@@ -52,11 +52,15 @@ Here are some of the projects I've worked on:
 - **Description:** A brief description of the project.
 - **Technologies Used:** List of technologies used.
 - **Highlights:** Key features or achievements. -->
-
+<!-- 
 ## 📈 GitHub Stats
 
+GitHub stats card showing contributions, stars, etc. for username KDrop25
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KDrop25&show_icons=true&theme=radical)
+
+Top programming languages used by KDrop25 shown in a compact layout
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDrop25&layout=compact&theme=radical)
+ -->
 
 <!-- ## 🏅 Contributions
 
